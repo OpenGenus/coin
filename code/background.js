@@ -15,5 +15,6 @@
   // AMAZON SITES
   load("services/amazon/amazon_in.js");
   load("services/amazon/amazon_com.js");
-  
+  load("services/amazon/amazon_ca.js");
+
 })();
