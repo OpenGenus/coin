@@ -8,6 +8,7 @@
 
 You do not need to donate 💰 to feed millions of children. Your actions can.
 
+Download the extension [**here**](https://chrome.google.com/webstore/detail/opengenus-coin/ahhmgppmgjbladmnpiepbmlbpdlnpoii)
 # How this works?
 
 An internet user is a potential source of income for several others and is the core reason for the success of the Internet. Imagine will Wikipedia be as popular as it is today, if its users abondon it.
