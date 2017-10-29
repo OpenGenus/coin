@@ -21,7 +21,7 @@ As such, this extension works in the background to raise funds for several other
 
 User privacy is one of the most important concerns at **OpenGenus**. We do not store or process any private information and hence, your identity is completely hidden from the community. As the entire code is opensource, you may drive into the code and take a look how we support our claim. 
 
-Additionally, you may join us at **[Slack](http://slack.opengenus.org)** to discuss further or email us at **team@opengenus.org**.
+Additionally, you may join us at **[Slack](https://github.com/OpenGenus/OpenGenus-Slack)** to discuss further or email us at **team@opengenus.org**.
 
 # Want to support your organization through our funds?
 
