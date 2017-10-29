@@ -11,15 +11,18 @@ You do not need to donate 💰 to feed millions of children. Your actions can.
 Download the extension [**here**](https://chrome.google.com/webstore/detail/opengenus-coin/ahhmgppmgjbladmnpiepbmlbpdlnpoii)
 # How this works?
 
-An internet user is a potential source of income for several others and is the core reason for the success of the Internet. Imagine will Wikipedia be as popular as it is today, if its users abondon it.
+An <i>internet user</i> is a potential source of income for several others and is the core reason for the success of the <i>internet</i>. Imagine, will Wikipedia be as popular as it is today if its users abandon it?
 
-This idea is central to the **OpenGenus** community. We believe that when people come together anything is possible. 
+This idea is central to the **OpenGenus** community. We believe that when people come together, anything is possible.
 
 As such, this extension works in the background to raise funds for several other communities doing social good. Potential sources include the new tab modification and the affiliate programs. This extension currents supports around **10** services and aims to cover other services as well.
 
 # How this impacts the user?
 
-User privacy is one of the most important concerns at **OpenGenus**. We do not store or process any private information and hence, your identity is completely hidden from the community. As the entire code is opensource, you may drive into the code and take a look how we support our claim. 
+User privacy is one of the most important concerns at **OpenGenus**. Since **we do not store or process any private information**, **your identity is not visible to the community**.
+
+The project is open-source, and we encourage you to dive in and take a look at how we support our claim. 
+
 
 Additionally, you may join us at **[Slack](https://github.com/OpenGenus/OpenGenus-Slack)** to discuss further or email us at **team@opengenus.org**.
 
